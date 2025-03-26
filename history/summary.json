@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 96,
-    "timeWeek": 108,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "time": 106,
+    "timeDay": 93,
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 126,
-    "timeWeek": 93,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "time": 90,
+    "timeDay": 105,
+    "timeWeek": 90,
+    "timeMonth": 90,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 130,
-    "timeWeek": 321,
-    "timeMonth": 321,
-    "timeYear": 321,
+    "time": 349,
+    "timeDay": 276,
+    "timeWeek": 349,
+    "timeMonth": 349,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
@@ -91,22 +91,22 @@
   },
   {
     "name": "Southcrest BLDG 1",
-    "url": "http://internal.bldg1.southcrest.org",
-    "icon": "https://icons.duckduckgo.com/ip3/internal.bldg1.southcrest.org.ico",
+    "url": "internal.bldg1.southcrest.org",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "southcrest-bldg-1",
     "status": "down",
-    "uptime": "75.13%",
-    "uptimeDay": "75.13%",
-    "uptimeWeek": "75.13%",
-    "uptimeMonth": "75.13%",
-    "uptimeYear": "75.13%",
+    "uptime": "13.23%",
+    "uptimeDay": "13.23%",
+    "uptimeWeek": "13.23%",
+    "uptimeMonth": "13.23%",
+    "uptimeYear": "13.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 0
+      "2025-03-26": 3
     }
   }
 ]
