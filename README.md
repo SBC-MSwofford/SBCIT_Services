@@ -1,6 +1,6 @@
 # [📈 Live Status](https://Southcrest InfoTech.github.io/upptime): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Southcrest InfoTech](https://Southcrest InfoTech.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Southcrest InfoTech](https://sbc-mswofford.github.io/SBCIT_Services/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Southcrest InfoTech/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/Southcrest InfoTech/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Southcrest InfoTech/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Southcrest InfoTech/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
