@@ -1,4 +1,4 @@
-# [📈 Live Status](https://Southcrest InfoTech.github.io/upptime): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://sbc-mswofford.github.io/SBCIT_Services/): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Southcrest InfoTech](https://sbc-mswofford.github.io/SBCIT_Services/), powered by [Upptime](https://github.com/upptime/upptime).
 
