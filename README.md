@@ -2,7 +2,7 @@
 
 This repository contains the open-source uptime monitor and status page for [Southcrest InfoTech](https://sbc-mswofford.github.io/SBCIT_Services/), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/Southcrest InfoTech/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/Southcrest InfoTech/upptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Uptime CI](https://github.com/Southcrest InfoTech/upptime/workflows/Uptime%20CI/badge.svg)](https://sbc-mswofford.github.io/SBCIT_Services/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Southcrest InfoTech/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Southcrest InfoTech/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/Southcrest InfoTech/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/Southcrest InfoTech/upptime/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/Southcrest InfoTech/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/Southcrest InfoTech/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
