@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 111,
     "timeDay": 72,
-    "timeWeek": 131,
+    "timeWeek": 91,
     "timeMonth": 113,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -43,10 +43,10 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
@@ -54,7 +54,9 @@
     "timeWeek": 326,
     "timeMonth": 336,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 1
+    }
   },
   {
     "name": "Test Broken Site",
@@ -109,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 107,
+      "2025-07-10": 1183,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
